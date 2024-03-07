@@ -16,6 +16,7 @@
 
 ## 文字教程
  - [中科院Wensheng Dou-软工的Reading Writing Rubuttal Presentation Thesis Research_methodology Books Humor](http://www.tcse.cn/~wsdou/advice.html)
+ - [中国人经常犯的英语语法错误](https://github.com/catch22out/academic-writing-guide/resources/common_mistaks_by_chinese.pdf)
  - [知乎专栏-SCI是怎么炼成的](https://zhuanlan.zhihu.com/p/36794864)
    - https://zhuanlan.zhihu.com/p/36794864 
  - 周志华教授：如何做研究与写论文？,[公众号](https://mp.weixin.qq.com/s/01ciF3uNKAMXWML2EeYwvQ), [pdf](https://github.com/FudanSELab/academic-writing-guide/blob/main/resources/research_and_paper_zhou_zhihua_2007_ppt.pdf)
@@ -166,8 +167,6 @@ http://nlp.csai.tsinghua.edu.cn/~ly/talks/cwmt14_tut.pdf)
 ### 方法章节
  - 介绍方法应该是一个通用的技术框架，不要是一个具体的技术实现。比如下面：。50,100 不能写死在方法里面，要描述成一个通用的方法，可以写成n,m,k,这种可变参数，然后后面再说实际实现的时候取了50，100. 并且要加上原因。
 ![image](https://github.com/FudanSELab/academic-writing-guide/assets/10709391/4a1307a6-1b36-42fe-ab51-e6b5533514dc)
-
-
 
 ### 参考文献
  - 检查参考文献的格式是否统一
