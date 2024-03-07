@@ -18,6 +18,7 @@
  - [中科院Wensheng Dou-软工的Reading Writing Rubuttal Presentation Thesis Research_methodology Books Humor](http://www.tcse.cn/~wsdou/advice.html)
  - [中国人经常犯的英语语法错误1](https://github.com/catch22out/academic-writing-guide/resources/common_mistaks_by_chinese.pdf) [中国人经常犯的英语语法错误2](https://github.com/catch22out/academic-writing-guide/resources/common_mistaks_by_chinese2.pdf)
  - [上海纽约大学学术写作](https://github.com/catch22out/academic-writing-guide/resources/NYU_academic_writing.pdf)
+  - [余光中：怎样改进英式中文？- 论中文的常态与变态](https://open.leancloud.cn/improve-chinese/)
  - [知乎专栏-SCI是怎么炼成的](https://zhuanlan.zhihu.com/p/36794864)
    - https://zhuanlan.zhihu.com/p/36794864 
  - 周志华教授：如何做研究与写论文？,[公众号](https://mp.weixin.qq.com/s/01ciF3uNKAMXWML2EeYwvQ), [pdf](https://github.com/FudanSELab/academic-writing-guide/blob/main/resources/research_and_paper_zhou_zhihua_2007_ppt.pdf)
