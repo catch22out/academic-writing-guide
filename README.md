@@ -15,6 +15,7 @@
 ](https://www.bilibili.com/video/BV1zv41177JQ?from=search&seid=3407649266167868195&spm_id_from=333.337.0.0)
 
 ## 文字教程
+ - [如何读一篇论文](https://github.com/catch22out/academic-writing-guide/blob/main/resources/How_to_Read_a_Paper.pdf)
  - [中科院Wensheng Dou-软工的学术分享](http://www.tcse.cn/~wsdou/advice.html)
     - Reading、Writing、Rubuttal、Presentation、Thesis、Research_methodology、Books、Humor
  - [中国人经常犯的英语语法错误1](https://github.com/catch22out/academic-writing-guide/blob/main/resources/common_mistaks_by_chinese.pdf) [中国人经常犯的英语语法错误2](https://github.com/catch22out/academic-writing-guide/blob/main/resources/common_mistaks_by_chinese2.pdf)
